@@ -1,2 +1,5 @@
-# Youli-ai
-AI帮你挑礼物、记住重要的人、提醒重要的日子，让送礼不再是一件麻烦事。
+有礼（YouLi）
+
+AI Relationship Copilot
+
+记住每一份心意。
